@@ -1,0 +1,1 @@
+This repository contains a Dockerfile with a common error and its solution. The original Dockerfile fails to build because it attempts to copy files into a non-existent directory. The solution demonstrates the correct way to structure the Dockerfile to avoid this issue.
